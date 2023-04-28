@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: myapp-backend
+  name: myapp-backend
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: myapp-backend
+  template:
+    metadata:
+      labels:
+        app: myapp-backend
+    spec:
+      containers:
+      - name: myapp-backend
+        image: miguelcordovar/myapp-backend:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8080

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j3NFtQAG/FYyoqqjnB4xitkGlyI+zD2qMABDJMpdjGY=",
+  "Source": "myapp-backend",
+  "BasePath": "_content/myapp-backend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

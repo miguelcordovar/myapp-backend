@@ -1,0 +1,8 @@
+/Users/miguel/projects/myapp/myapp-backend/out/myapp-backend
+/Users/miguel/projects/myapp/myapp-backend/out/appsettings.Development.json
+/Users/miguel/projects/myapp/myapp-backend/out/appsettings.json
+/Users/miguel/projects/myapp/myapp-backend/out/myapp-backend.dll
+/Users/miguel/projects/myapp/myapp-backend/out/myapp-backend.deps.json
+/Users/miguel/projects/myapp/myapp-backend/out/myapp-backend.runtimeconfig.json
+/Users/miguel/projects/myapp/myapp-backend/out/myapp-backend.pdb
+/Users/miguel/projects/myapp/myapp-backend/out/System.Text.Json.dll
